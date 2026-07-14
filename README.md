@@ -2,7 +2,7 @@
 
 A full-stack application that compares résumé content with job descriptions, calculates a transparent match score, identifies missing keywords, and generates targeted improvement suggestions.
 
-> **Original project year:** 2026  
+> **Original project year:** 2023 
 > **Public repository reconstruction:** July 2026  
 > **Status:** Active portfolio reconstruction using verified, original work only
 
