@@ -2,7 +2,7 @@
 
 A full-stack application that compares résumé content with job descriptions, calculates a transparent match score, identifies missing keywords, and generates targeted improvement suggestions.
 
-> **Original project year:** 2023 
+> **Original project year:** 2023  
 > **Public repository reconstruction:** July 2026  
 > **Status:** Active portfolio reconstruction using verified, original work only
 
@@ -108,6 +108,14 @@ cd backend
 pytest
 ```
 
+## Run Everything with Docker
+
+```bash
+docker compose up --build
+```
+
+The frontend is available at `http://localhost:5173` and the API at `http://localhost:8000`.
+
 ## Project Structure
 
 ```text
@@ -139,10 +147,8 @@ ai-resume-job-match/
 
 ## Development Timeline
 
-- **2026:** Original project work
+- **2023:** Original project work
 - **July 2026:** Public portfolio reconstruction and documentation
-
-The résumé does not state exact original months, so this repository does not claim a more specific timeline.
 
 ## Accuracy Note
 
